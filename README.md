@@ -105,7 +105,7 @@ After making the neccessary changes follow the standard add-commit-push workflow
 
 To help you get started, we've included a reference video showcasing a sample styled webpage. Remember, this is just for inspiration—your final submission should reflect your personal style and interpretation of the chosen theme.
 
-<video src="StyledDemo.webm" autoplay loop muted playsinline style="max-width: 100%;"></video>
+<video src="StyledDemo.mp4" autoplay loop muted playsinline style="max-width: 100%;"></video>
 ---
 
 We can't wait to see how you bring these iconic worlds to life in your designs. Good luck, and may the best designer win!
